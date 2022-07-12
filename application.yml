@@ -1,6 +1,6 @@
 spring:
   application:
-    name: medilab-department-service
+    name: medilab-department-service time
   profiles:
     active: dev
 server:
